@@ -55,7 +55,8 @@ High-priority issues include:
 
 ## 👤 Test User Profiles
 
-Tests were run with a special focus on `problem_user`, which simulates edge-case behavior for negative testing.
+Tests were primarily conducted using the `problem_user` account, which simulates edge-case and negative scenarios.  
+To verify the expected (intended) behavior of the application, use the `standard_user` account.
 
 ---
 
