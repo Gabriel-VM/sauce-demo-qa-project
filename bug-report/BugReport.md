@@ -1,6 +1,6 @@
 # 🐞 Bug Report – Sauce Demo QA Project
 
-Below you is the list of bugs found during manual and exploratory testing of [Sauce Demo](https://www.saucedemo.com/) with a `problem_user` account (except for BUG-010).
+Below is the list of bugs found during manual and exploratory testing of [Sauce Demo](https://www.saucedemo.com/) with a `problem_user` account (except for BUG-010).
 
 ---
 
