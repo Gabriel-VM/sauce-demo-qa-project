@@ -1,6 +1,6 @@
 # Sauce Demo QA Test Project
 
-Here you have a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
+Here is a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
 
 The project aims to showcase the following:
 - The creation of a well-structured test plan
