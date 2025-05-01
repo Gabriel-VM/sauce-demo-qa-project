@@ -2,10 +2,10 @@
 
 Here you have a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
 
-The goal is to showcase the following:
-- Creation of a well-structured test plan
-- Execution of exploratory and scenario-based manual testing
-- Identification, prioritization, and reporting of software bugs in a clear format
+The project aims to showcase the following:
+- The creation of a well-structured test plan
+- The execution of exploratory and scenario-based manual testing
+- The identification, prioritization, and clear reporting of software bugs
 
 ---
 
@@ -55,7 +55,7 @@ High-priority issues include:
 
 ## 👤 Test User Profiles
 
-Tests were run using various predefined user accounts provided by Sauce Demo, with special focus on `problem_user`, which simulates edge-case behavior for negative testing.
+Tests were run with a special focus on `problem_user`, which simulates edge-case behavior for negative testing.
 
 ---
 
