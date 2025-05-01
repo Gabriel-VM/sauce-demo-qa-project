@@ -1,6 +1,6 @@
 # Sauce Demo QA Test Project
 
-This repository documents a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
+Here you have a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
 
 The goal is to showcase the following:
 - Creation of a well-structured test plan
@@ -14,11 +14,9 @@ The goal is to showcase the following:
 ```
 /
 ├── test-plan/
-│   └── SauceDemoTestPlan.pdf
+│   └── Sauce Demo Shopping Test Plan.pdf
 ├── bug-report/
 │   └── BugReport.md
-├── evidences/             # (optional, for screenshots or videos)
-│   └── [bug-screenshots]
 └── README.md
 ```
 
