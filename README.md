@@ -4,7 +4,7 @@ Here is a complete manual testing project for the [Sauce Demo](https://www.sauce
 
 The project aims to showcase the following:
 - The creation of a well-structured test plan
-- The execution of exploratory and scenario-based manual testing
+- The execution of exploratory and scenario-based manual functional testing
 - The identification, prioritization, and clear reporting of software bugs
 
 ---
