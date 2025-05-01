@@ -2,10 +2,10 @@
 
 This repository documents a complete manual testing project for the [Sauce Demo](https://www.saucedemo.com/) online store.
 
-The objective is to showcase the ability to:
-- Create a well-structured test plan
-- Perform exploratory and scenario-based manual testing
-- Identify, prioritize, and report software bugs in a clear, professional format
+The goal is to showcase the following:
+- Creation of a well-structured test plan
+- Execution of exploratory and scenario-based manual testing
+- Identification, prioritization, and reporting of software bugs in a clear format
 
 ---
 
